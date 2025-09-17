@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-portfolio/static/css/main.633671be.css",
+    "main.js": "/github-portfolio/static/js/main.a3e664eb.js",
+    "static/js/453.b05d8aa5.chunk.js": "/github-portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/unwraplanding.png": "/github-portfolio/static/media/unwraplanding.50f250a3defbc2807a0e.png",
+    "static/media/bg-light.png": "/github-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock07.png": "/github-portfolio/static/media/mock07.3f1110f482232b33c6a2.png",
+    "static/media/bg-dark.png": "/github-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/pfp.jpg": "/github-portfolio/static/media/pfp.2a206106ff8de4ee7347.jpg",
+    "static/media/steamrec.jpeg": "/github-portfolio/static/media/steamrec.f3300c554b5755d6e359.jpeg",
+    "static/media/chessmultiplayer.png": "/github-portfolio/static/media/chessmultiplayer.e0c899bd6b8d5cf1c9c8.png",
+    "index.html": "/github-portfolio/index.html",
+    "main.633671be.css.map": "/github-portfolio/static/css/main.633671be.css.map",
+    "main.a3e664eb.js.map": "/github-portfolio/static/js/main.a3e664eb.js.map",
+    "453.b05d8aa5.chunk.js.map": "/github-portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.633671be.css",
+    "static/js/main.a3e664eb.js"
+  ]
+}
