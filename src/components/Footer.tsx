@@ -8,14 +8,14 @@ function Footer() {
     <footer>
       <div>
         <a
-          href="https://github.com/yujisatojr"
+          href="https://github.com/SaikatBaidya"
           target="_blank"
           rel="noreferrer"
         >
           <GitHubIcon />
         </a>
         <a
-          href="https://www.linkedin.com/in/yujisato/"
+          href="https://www.linkedin.com/in/saikatbaidya"
           target="_blank"
           rel="noreferrer"
         >
