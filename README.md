@@ -21,3 +21,12 @@
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge)
 ![SAP Signavio](https://img.shields.io/badge/SAP%20Signavio-0FAAFF?style=for-the-badge)
 ![Lean IX](https://img.shields.io/badge/Lean%20IX-002B45?style=for-the-badge)
+
+## About
+I'm a postgrad student at The University of Auckland doing a MSc IT majoring in Software Engineering.
+This is my personal portfolio featuring my best projects!
+
+## Contact
+Email - saikat.baidya32@gmail.com
+Phone - +64 2902004125
+Linkedin - https://www.linkedin.com/in/saikatbaidya

@@ -30,6 +30,7 @@ function Main() {
           </div>
           <h1>Saikat Baidya</h1>
           <p>Full Stack Engineer</p>
+          <p>Current doing a Master of IT at The University of Auckland</p>
 
           <div className="mobile_social_icons">
             <a
